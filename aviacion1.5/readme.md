@@ -1,4 +1,4 @@
-# Levantar el proyecto en un host virtual con Apache
+# Levantar el proyecto en un host local con Apache
 
 1. Situarse en la carpeta de aviacion1.5 con cmd
 2. Actualizar proyecto escribiendo lo siguiente. -- escribir en cmd -- ( Composer update )
